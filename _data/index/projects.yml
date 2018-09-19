@@ -1,4 +1,15 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Better Than Ren-Tech
+  descr: "Honestly, this a pretty cheeky project name, but we wanted to set the bar high for ourselves. I had asked around for individuals interested in doing a quantitative trading project with me since it's not a big area of focus for UVA but there are certainly students interesteda and passionate about the subject, so I formed a group of 4 to develop a strategy that could beat those of Ren-Tech's. We developed a C++ crypto trading bot just to get a feel for how basic trading bots function internally, and we're planning on implementing strategies using data from historic prices, environmental data, and real-time web data. Through the rest of this project, I'm hoping to learn more about Neural Language Processing, Feature engineering, and Machine Learning Optimization with GPUs. I also want to learn the fundamentals of portfolio risk analysis and how people or bots behave when trading in the stock market."
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/RomanZWang/BetterThanRenTech
+
+- name: Scent Tracker
+  descr: "I got really interested in learning about cosmetic fragrances over the summer, so I'm looking to an analysis and some unsupervised learning on scent data available from Fragrantica. Thousands of ingredients usually go in to the fragrances we wear today, and it's really hard for people to qualitatively and quantitatively describe scents, so I wanted to find out more about what people think they like, what people actually like, and what people are more likely to like given certain preferences."
+  image: pong.png
+
+- name: Illegal Carwash Detection
+  descr: "I developed a simple convolutional neural network to detect illegal carwashes that were polluting Baltimore City for HopHacks 2018."
+
+- name: Sepsis Project
+  descr: "Developing models for papers using the MIMIC-III database. Tons of data cleaning was involved and weakening assumptions about the data was a must. Database extraction scripts are included in the database."
+  github: https://github.com/RomanZWang/Sepsis-Research
