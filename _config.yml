@@ -3,19 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Roman's Portfolio
+email: rw5dc@virginia.edu
+description:
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
-remote_theme: renyuanz/leonids
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -34,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Roman Z. Wang
+  avatar: avatar.png
+  job: "Aspiring Data Scientist and Software Engineer."
+  bio: "Making sense of the world through data-driven engineering."
+  email: rw5dc@virginia.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -49,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: RomanZWang
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: roman-wang-1019a77a
   skype: #username
   xing: #username
   instagram: #username
