@@ -11,6 +11,11 @@
   descr: "The hack was to build a platform to allow the city to detect illegal carwashes that were polluting the environment and leading to algae blooms. I trained a simple convolutional neural network model to detect carwashes pictures for HopHacks 2018."
   github: https://github.com/jjk2rj/illegal-carwash/
 
+- name: Vehicle Routing Trifecta Project
+  descr: "Multi-objective vehicle routing system tested on open source data. Presenting at ICCCN 2019."
+
 - name: Sepsis Project
   descr: "Developing models for papers using the MIMIC-III database. Tons of data cleaning was involved and weakening assumptions about the data was a must. Database extraction scripts are included in the database."
   github: https://github.com/RomanZWang/Sepsis-Research
+  material-link: https://doi.org/10.1109/ICHI.2018.00068
+  material-text: Presented at ICHI 2018.
