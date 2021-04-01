@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, Java, C++, Python, R, SQL, React, Web
-percentage: 100, 70, 35, 50, 50, 65, 40, 70
+aspects: Motivation, Python, Spark, R, SQL, Git, Vue.js/React.js, Docker
+percentage: 100, 20, 35, 40, 50, 50, 70, 40
