@@ -1,9 +1,15 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name: Johns Hopkins Applied Physics Laboratory
+  link: https://www.jhuapl.edu/
+  date: September 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Computer Scientist
+
 - name: University of Virginia Department of Systems and Information Engineering
   link: https://engineering.virginia.edu/departments/systems-and-information-engineering
-  date: September 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Research Team Lead
+  date: September 2016 - September 2018
+  job: Research Lead
 
 - name: Northrop Grumman
   link: http://www.northropgrumman.com/
