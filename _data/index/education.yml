@@ -1,7 +1,12 @@
+- name: Columbia University
+  link: https://www.columbia.edu/
+  date: 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br /> <strong>M.S.</strong> Computer Science <br /> Natural Language Processing
+
 - name: University of Virginia
   link: http://www.virginia.edu/
-  date: 2015 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br /> <strong>B.A.</strong> Computer Science <br /> <strong>B.A.</strong> Financial Mathematics
+  date: 2015 - 2019
+  descr: <br /> <strong>B.A.</strong> Computer Science <br /> <strong>B.A.</strong> Mathematics
 
 - name: Deep Run High School
   link: http://deeprun.henricoschools.us/
