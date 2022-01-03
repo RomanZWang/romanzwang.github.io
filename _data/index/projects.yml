@@ -12,6 +12,9 @@
   descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt has made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
   github: https://github.com/RomanZWang/NTRU
 
+- name: Polynomial expansion transformer
+  descr: "Using transformers and RNNs to expand single-variable second-ordered polynomials symbolically. In progress."
+
 - name: Multi Agent Tanks Reinforcement Learning Algorithm
   descr: "Designed a PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
   material-link: https://arxiv.org/abs/2002.11174
