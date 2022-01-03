@@ -1,11 +1,21 @@
+- name: Delaunay Triangulation Comparison Project
+  descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
+  material-link: https://github.com/RomanZWang/delaunay-triangulation
+
+- name: GPU-enabled NTRUEncrypt encryption algorithm implementation
+  descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt has made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
+  material-link: https://github.com/RomanZWang/NTRU
+
 - name: Multi Agent Tanks Reinforcement Learning Algorithm
-  descr: "Trained a reinforcement learning model that employed tournament self-play and image feature engineering on top of a PPO LSTM model for a workplace competition with 20 teams."
+  descr: "Designed a PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
+  material-link: https://arxiv.org/abs/2002.11174
 
-- name: Vehicle Routing Trifecta Project
+- name: Vehicle Routing Trifecta Research Paper
   descr: "Multi-objective vehicle routing system tested on open source data."
-  material-text: Presented at ICHI 2018.
+  material-link: https://doi.org/10.1109/ICCCN.2019.8847163
+  material-text: Presented at ICCCN 2019.
 
-- name: Sepsis Project
+- name: Sepsis Research Paper
   descr: "Developed models for papers using the MIMIC-III database. Tons of data cleaning was involved and weakening assumptions about the data was a must. Database extraction scripts are included in the database. Presented at ICHI 2018."
   github: https://github.com/RomanZWang/Sepsis-Research
   material-link: https://doi.org/10.1109/ICHI.2018.00068
