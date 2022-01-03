@@ -1,10 +1,16 @@
+- name: Recognizing Families in the Wild 2021 Challenge
+  descr: "Competition winner for RFIW 2021 by placing top-3 in the competition with team. We engineered an ensembles of human-engineered models and programs used by program synthesis."
+  material-link: https://arxiv.org/abs/2110.07020
+  material-link: https://www.cs.columbia.edu/2021/columbia-team-wins-top-3-in-the-fg-2021-families-in-the-wild-kinship-verification/
+  material-text: Accepted to FG 2021.
+
 - name: Delaunay Triangulation Comparison Project
   descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
-  material-link: https://github.com/RomanZWang/delaunay-triangulation
+  github: https://github.com/RomanZWang/delaunay-triangulation
 
 - name: GPU-enabled NTRUEncrypt encryption algorithm implementation
   descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt has made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
-  material-link: https://github.com/RomanZWang/NTRU
+  github: https://github.com/RomanZWang/NTRU
 
 - name: Multi Agent Tanks Reinforcement Learning Algorithm
   descr: "Designed a PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
