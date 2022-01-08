@@ -15,10 +15,12 @@
 - name: Polynomial Expansion with Machine Learning
   descr: "Used a transformers to symbolically expand single-variable second-ordered polynomials. I deployed model as a REST API via Google App Engine. Use python math syntax e.g. c*(c-2) or 2*c**2, not (9-x)(8+x) or x*(9x-1). Performance is still being improved."
   material-link: https://pelagic-tracker-337505.uc.r.appspot.com/docs
+  material-text: Endpoint docs.
 
 - name: Multi Agent Tanks Reinforcement Learning Algorithm
-  descr: "Designed a PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
+  descr: "Designed a proprietary PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
   material-link: https://arxiv.org/abs/2002.11174
+  material-text: RL environment.
 
 - name: Vehicle Routing Trifecta Research Paper
   descr: "Multi-objective vehicle routing system tested on open source data."
