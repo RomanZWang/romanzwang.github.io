@@ -22,6 +22,10 @@
   descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
   github: https://github.com/RomanZWang/delaunay-triangulation
 
+- name: Ray Tracing Project
+  descr: "Implemented a ray tracer from scratch."
+  github: https://github.com/RomanZWang/ray-tracer
+
 - name: Vehicle Routing Trifecta Research Paper
   descr: "Multi-objective vehicle routing system tested on open source data."
   material-link: https://doi.org/10.1109/ICCCN.2019.8847163
