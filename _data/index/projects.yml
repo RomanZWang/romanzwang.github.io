@@ -3,6 +3,7 @@
   material-link: https://arxiv.org/abs/2110.07020
   material-link: https://www.cs.columbia.edu/2021/columbia-team-wins-top-3-in-the-fg-2021-families-in-the-wild-kinship-verification/
   material-text: Accepted to FG 2021.
+  github: https://github.com/RomanZWang/rfiw-2021-kinship-verification
 
 - name: Polynomial Expansion with Machine Learning
   descr: "Used a transformers to symbolically expand single-variable second-ordered polynomials. I deployed model as a REST API via Google App Engine. Use python math syntax e.g. c*(c-2) or 2*c**2, not (9-x)(8+x) or x*(9x-1). Performance is still being improved."
