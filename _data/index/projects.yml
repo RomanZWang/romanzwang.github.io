@@ -1,31 +1,8 @@
 - name: Recognizing Families in the Wild 2021 Challenge
   descr: "Competition winner for RFIW 2021 by placing top-3 in the competition with team. We engineered an ensembles of human-engineered models and programs used by program synthesis."
   material-link: https://arxiv.org/abs/2110.07020
-  material-link: https://www.cs.columbia.edu/2021/columbia-team-wins-top-3-in-the-fg-2021-families-in-the-wild-kinship-verification/
-  material-text: Accepted to FG 2021.
+  material-text: Presented at FG 2021.
   github: https://github.com/RomanZWang/rfiw-2021-kinship-verification
-
-- name: Polynomial Expansion with Machine Learning
-  descr: "Used a transformers to symbolically expand single-variable second-ordered polynomials. I deployed model as a REST API via Google App Engine. Use python math syntax e.g. c*(c-2) or 2*c**2, not (9-x)(8+x) or x*(9x-1). Performance is still being improved."
-  material-link: https://pelagic-tracker-337505.uc.r.appspot.com/docs
-  material-text: Endpoint docs.
-
-- name: GPU-enabled NTRUEncrypt Encryption Implementation
-  descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt has made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
-  github: https://github.com/RomanZWang/NTRU
-
-- name: Multi Agent Tanks Reinforcement Learning Algorithm
-  descr: "Designed a proprietary PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
-  material-link: https://arxiv.org/abs/2002.11174
-  material-text: RL environment.
-
-- name: Delaunay Triangulation Comparison Project
-  descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
-  github: https://github.com/RomanZWang/delaunay-triangulation
-
-- name: Ray Tracing Project
-  descr: "Implemented a ray tracer from scratch."
-  github: https://github.com/RomanZWang/ray-tracer
 
 - name: Vehicle Routing Trifecta Research Paper
   descr: "Multi-objective vehicle routing system tested on open source data."
@@ -37,3 +14,30 @@
   github: https://github.com/RomanZWang/Sepsis-Research
   material-link: https://doi.org/10.1109/ICHI.2018.00068
   material-text: Presented at ICHI 2018.
+
+- name: Multi Agent Tanks Reinforcement Learning Challenge
+  descr: "Designed a proprietary PPO-LSTM reinforcement learning model that learned through tournament self-play and engineered video features for a workplace AI challenge."
+  material-link: https://arxiv.org/abs/2002.11174
+  material-text: Simulation Environment.
+
+- name: Polynomial Expansion with Machine Learning
+  descr: "Used a transformers to symbolically expand single-variable second-ordered polynomials. I deployed model as a REST API via Google App Engine. Use python math syntax e.g. c*(c-2) or 2*c**2, not (9-x)(8+x) or x*(9x-1). Performance is still being improved."
+  material-link: https://pelagic-tracker-337505.uc.r.appspot.com/docs
+  material-text: Endpoint docs.
+
+- name: GPU-enabled NTRUEncrypt Encryption Implementation
+  descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt had made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
+  github: https://github.com/RomanZWang/NTRU
+
+
+- name: Delaunay Triangulation Comparison Project
+  descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
+  github: https://github.com/RomanZWang/delaunay-triangulation
+
+- name: Ray Tracing Project
+  descr: "Implemented a ray tracer from scratch."
+  github: https://github.com/RomanZWang/ray-tracer
+
+- name: Multi-layer perception Project
+  descr: "Implemented a multi-layer perception from scratch."
+  github: https://github.com/RomanZWang/multi-layer-perception
