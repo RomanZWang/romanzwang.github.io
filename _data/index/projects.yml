@@ -25,19 +25,20 @@
   material-link: https://pelagic-tracker-337505.uc.r.appspot.com/docs
   material-text: Endpoint docs.
 
-- name: GPU-enabled NTRUEncrypt Encryption Implementation
+- name: GPU-enabled NTRUEncrypt Encryption
   descr: "Implemented an NTRUEncrypt encryption algorithm, an NTRU Lattice-Based encryption algorithm. As of January 1st, 2022, NTRUEncrypt had made it to the most recent round of the NIST Post-Quantum Cryptography Standardization competition."
   github: https://github.com/RomanZWang/NTRU
 
-
-- name: Delaunay Triangulation Comparison Project
-  descr: "This project idea is based on the final project of CS274 from Berkeley. File is implementation of the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer."
+- name: Delaunay Triangulation Comparison
+  descr: "Implemented the incremental-insertion Delaunay Triangulation algorithm found in Primitives for the Manipulation of General Subdivisions and the Computation of Voronoi Diagrams by Guibas and Stolfi; and a divide-and-conquer algorithm found in A faster divide-and-conquer algorithm for constructing delaunay triangulations by Dwyer. This project idea was the final project of CS274 from Berkeley during the spring 2019 semester."
+  material-link: https://people.eecs.berkeley.edu/~jrs/274/
+  material-text: Project Idea.
   github: https://github.com/RomanZWang/delaunay-triangulation
 
-- name: Ray Tracing Project
+- name: Ray Tracing
   descr: "Implemented a ray tracer from scratch."
   github: https://github.com/RomanZWang/ray-tracer
 
-- name: Multi-layer perception Project
+- name: Multi-layer Perception
   descr: "Implemented a multi-layer perception from scratch."
   github: https://github.com/RomanZWang/multi-layer-perception
