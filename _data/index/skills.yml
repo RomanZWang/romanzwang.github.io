@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, Tensorflow, Pytorch, SQL, C++, Git, Vue.js/React.js/Plotly Dash, Docker
-percentage: 80, 60, 40, 60, 40, 50, 70, 40
+aspects: Python, Tensorflow, Pytorch, SQL, C++, Plotly Dash, Vue.js/React.js, Docker
+percentage: 80, 60, 40, 60, 40, 70, 70, 40
